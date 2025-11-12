@@ -3,7 +3,7 @@
 ### ✅ 확인사항
 
 #### 서버
-- 포트
+- [포트](https://github.com/dotorimaru/docs/blob/main/README.md)
 
 <br/>
 
