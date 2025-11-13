@@ -5,6 +5,7 @@
 #### 서버
 - [서버 구조](https://github.com/dotorimaru/docs/blob/main/%EC%84%9C%EB%B2%84%20%EA%B5%AC%EC%A1%B0.md)
 - [포트](https://github.com/dotorimaru/docs/blob/main/README.md)
+- [시스템 기획안](https://docs.google.com/document/d/1xH7CEdEZy6Tcp9hNYD71zrKJk8d3TIyRkhcwp1PP4Jc/edit?usp=sharing)
 
 <br/>
 
