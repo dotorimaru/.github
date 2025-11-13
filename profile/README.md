@@ -3,7 +3,7 @@
 ### ✅ 확인사항
 
 #### 서버
-- [서버구조](https://github.com/dotorimaru/docs/blob/main/%EC%84%9C%EB%B2%84%20%EA%B5%AC%EC%A1%B0.md)
+- [서버 구조](https://github.com/dotorimaru/docs/blob/main/%EC%84%9C%EB%B2%84%20%EA%B5%AC%EC%A1%B0.md)
 - [포트](https://github.com/dotorimaru/docs/blob/main/README.md)
 
 <br/>
